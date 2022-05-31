@@ -1,7 +1,7 @@
 
 ![work status](https://img.shields.io/badge/work-on%20progress-red.svg) 
 ![Ngor Seck](https://img.shields.io/badge/Ngor%20Seck-PHP-green) 
-![PHP](https://img.shields.io/badge/Ngor%20Seck-PHP%20boot-yellowgreen)
+![PHP](https://img.shields.io/badge/Ngor%20Seck-PHP-yellowgreen)
 
 
 
