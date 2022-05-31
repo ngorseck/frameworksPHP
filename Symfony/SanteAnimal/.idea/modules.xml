@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SanteAnimal.iml" filepath="$PROJECT_DIR$/.idea/SanteAnimal.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/React/Seminaire/app/.idea/app.iml" filepath="$USER_HOME$/Documents/React/Seminaire/app/.idea/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../ISI/isiOnline/.idea/isiOnline.iml" filepath="$PROJECT_DIR$/../../../../ISI/isiOnline/.idea/isiOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../ISI/2020/DITI4/framework/symfony/.idea/symfony.iml" filepath="$PROJECT_DIR$/../../../../ISI/2020/DITI4/framework/symfony/.idea/symfony.iml" />
+    </modules>
+  </component>
+</project>

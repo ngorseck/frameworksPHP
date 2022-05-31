@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9db5b88e-66d6-42ca-b7eb-042ce86baf7b" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/.gitignore" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/.gitignore" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/README.md" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/README.md" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/package.json" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/package.json" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/public/favicon.ico" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/public/favicon.ico" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/public/index.html" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/public/index.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/public/logo192.png" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/public/logo192.png" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/public/logo512.png" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/public/logo512.png" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/public/manifest.json" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/public/manifest.json" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/public/robots.txt" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/public/robots.txt" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/src/App.css" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/src/App.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/src/App.js" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/src/App.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/src/App.test.js" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/src/App.test.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/src/index.css" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/src/index.css" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/src/index.js" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/src/index.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/src/logo.svg" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/src/logo.svg" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/src/serviceWorker.js" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/React/Seminaire/app/yarn.lock" beforeDir="false" afterPath="$USER_HOME$/Documents/React/Seminaire/app/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/React/Seminaire/app" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/apache-pack" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1RF4BRYfNyvee8JFHXuPNBZM4Tb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ISI/2020/DITI4/framework/symfony/securityBasic/src/Security" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../ISI/2020/DITI4/framework/symfony/testSecurAppWithSymf/src" />
+      <recent name="$PROJECT_DIR$/../../../../ISI/2020/DITI4/framework/symfony/testSecurAppWithSymf/bin" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../ISI/2020/DITI4/framework/symfony/securityBasic/src/Security" />
+      <recent name="$PROJECT_DIR$/../../../../ISI/2020/DITI4/framework/symfony/testSecurAppWithSymf/src" />
+      <recent name="$PROJECT_DIR$/../../../../ISI/2020/DITI4/framework/symfony/testSecurAppWithSymf" />
+      <recent name="$PROJECT_DIR$/templates/maladie" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9db5b88e-66d6-42ca-b7eb-042ce86baf7b" name="Default Changelist" comment="" />
+      <created>1569249373885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569249373885</updated>
+      <workItem from="1569249375109" duration="1342000" />
+      <workItem from="1569277946032" duration="1259000" />
+      <workItem from="1569335872686" duration="9959000" />
+      <workItem from="1569426794290" duration="9638000" />
+      <workItem from="1569590745140" duration="16262000" />
+      <workItem from="1569785410641" duration="6968000" />
+      <workItem from="1569866761789" duration="150000" />
+      <workItem from="1569866962090" duration="470000" />
+      <workItem from="1569875484038" duration="121000" />
+      <workItem from="1570631897359" duration="746000" />
+      <workItem from="1571527869771" duration="3794000" />
+      <workItem from="1588795478457" duration="668000" />
+      <workItem from="1588843892395" duration="280000" />
+      <workItem from="1588873106346" duration="759000" />
+      <workItem from="1588878509168" duration="1785000" />
+      <workItem from="1589046601625" duration="275000" />
+      <workItem from="1589477169732" duration="655000" />
+      <workItem from="1589478900715" duration="20000" />
+      <workItem from="1589990343380" duration="1184000" />
+      <workItem from="1590596689701" duration="10737000" />
+      <workItem from="1590688600494" duration="9013000" />
+      <workItem from="1590708645807" duration="3623000" />
+      <workItem from="1590955190702" duration="2642000" />
+      <workItem from="1590958026601" duration="10324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

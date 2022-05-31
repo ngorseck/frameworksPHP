@@ -1,0 +1,30 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Traitement{% endblock %}
+
+{% block body %}
+    <h1>Traitement</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ traitement.id }}</td>
+            </tr>
+            <tr>
+                <th>Libelle</th>
+                <td>{{ traitement.libelle }}</td>
+            </tr>
+            <tr>
+                <th>Date</th>
+                <td>{{ traitement.date ? traitement.date|date('Y-m-d H:i:s') : '' }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('traitement_index') }}">back to list</a>
+
+    <a href="{{ path('traitement_edit', {'id': traitement.id}) }}">edit</a>
+
+    {{ include('traitement/_delete_form.html.twig') }}
+{% endblock %}
